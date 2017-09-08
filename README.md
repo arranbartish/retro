@@ -1,5 +1,5 @@
 # retro
-container to run a retro board
+container to run a retro board. When a build takes place it grabs the latest from https://github.com/funretro/distributed
 
 # docker hub location
 
